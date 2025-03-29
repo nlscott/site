@@ -1,5 +1,5 @@
 ---
-parent: Home
+parent: Docs
 title: doc-1
 layout: default
 ---
