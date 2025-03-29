@@ -11,9 +11,9 @@ nav_enabled: true
 heading_anchors: true
 color_scheme: dark
 
-defaults:
-  - scope:
-      path: "docs" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
+# defaults:
+#   - scope:
+#       path: "docs" # an empty string here means all files in the project
+#       type: "pages"
+#     values:
+#       layout: "default"
