@@ -10,4 +10,10 @@ aux_links:
 nav_enabled: true
 heading_anchors: true
 color_scheme: dark
-$link-color:  $purple-000;
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
