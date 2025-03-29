@@ -7,10 +7,10 @@ url: https://just-the-docs.github.io
 aux_links:
   Redline Tech: https://redlinetech.wordpress.com
 
-nav_enabled: true
-heading_anchors: true
-color_scheme: dark
-$link-color: $purple-000;
+# nav_enabled: true
+# heading_anchors: true
+# color_scheme: dark
+$link-color: $purple-100;
 
 
 # defaults:
