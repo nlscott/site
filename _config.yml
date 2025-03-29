@@ -5,4 +5,9 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://redlinetech.wordpress.com
+  Redline Tech: https://redlinetech.wordpress.com
+
+nav_enabled: true
+heading_anchors: true
+color_scheme: dark
+
