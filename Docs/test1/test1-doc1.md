@@ -1,8 +1,8 @@
 ---
-title: Docs
+title: test1-doc1
 parent: test1
 nav_order: 1
-layout: home
+layout: default
 ---
 
 # this test1

@@ -1,5 +1,6 @@
 ---
-title: Docs
+title: doc-0
+parent: Docs
 nav_order: 2
 layout: home
 ---
