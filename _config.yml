@@ -10,5 +10,5 @@ aux_links:
 nav_enabled: true
 heading_anchors: true
 color_scheme: dark
-$link-color: #af90f5;
+$link-color:  $purple-100;
 
