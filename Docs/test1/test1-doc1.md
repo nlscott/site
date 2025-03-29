@@ -1,7 +1,6 @@
 ---
-title: test1-doc1
 parent: test1
-nav_order: 1
+title: test1-doc1
 layout: default
 ---
 
