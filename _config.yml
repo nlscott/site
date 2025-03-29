@@ -8,5 +8,7 @@ aux_links:
   Redline Tech: https://redlinetech.wordpress.com
 
 
-$link-color: $purple-100;
+# $link-color: $purple-100;
+# Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
