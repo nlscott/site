@@ -10,6 +10,8 @@ aux_links:
 nav_enabled: true
 heading_anchors: true
 color_scheme: dark
+$link-color: $purple-000;
+
 
 # defaults:
 #   - scope:
