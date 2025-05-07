@@ -1,14 +1,48 @@
-title: Nic Scott
+title: bourne.shell
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
-
 aux_links:
-  Redline Tech: https://redlinetech.wordpress.com
+  # Redline Tech: https://redlinetech.wordpress.com
+
+search_enabled: true
+color_scheme: site-dark
+enable_copy_code_button: true
+back_to_top: true
+back_to_top_text: "Back to the top"
+# For copy button on code
+enable_copy_code_button: true
 
 
-# $link-color: $purple-100;
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
 
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- site/
+
+callouts_level: loud # quiet or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  custom:
+    color: custom
+    opacity: 0.2
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false

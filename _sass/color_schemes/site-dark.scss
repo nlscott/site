@@ -1,0 +1,21 @@
+// https://github.com/just-the-docs/just-the-docs/blob/main/_sass/color_schemes/dark.scss
+
+$color-scheme: dark;
+$sidebar-color: $grey-dk-275;
+$body-background-color: $grey-dk-300;
+$body-heading-color: $grey-lt-300;
+$body-text-color: $grey-lt-300;
+$link-color: $purple-100;
+$nav-child-link-color: $grey-dk-000;
+$base-button-color: $grey-dk-250;
+$btn-primary-color: $blue-200;
+$code-background-color: #302c36; // OneDarkJekyll default for syntax-one-dark-vivid
+$code-linenumber-color: #d7c9f4; // OneDarkJekyll .nf for syntax-one-dark-vivid
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $grey-dk-250;
+$search-background-color: $grey-dk-250;
+$search-result-preview-color: $grey-dk-000;
+$border-color: $grey-dk-200;
+
+@import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
+
