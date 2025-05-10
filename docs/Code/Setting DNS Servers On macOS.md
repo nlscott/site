@@ -9,7 +9,13 @@ layout: default
 
 # Setting DNS Servers On macOS
 
-xxxxxxxxx
+Typically for remote workers, we don't set DNS servers. If you have a traditional VPN, you can assign them thourgh the VPN config. But for most SASS apps, any DNS can resolve the lookup.
+
+A recent issue at work forced use to set some users DNS to Google and Cloudflare public DNS servers over their ISPs default servers. Any well known public servers would have worked, but we landed on Google and Cloudflare.
+
+This is a script I wrote to check if the user is connected to Wifi, get their current servers (if case we need to change back), set them to public servers, and then flush thier DNS cache.
+
+<br>
 
 ```bash
 #!/bin/zsh
