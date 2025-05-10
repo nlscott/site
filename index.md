@@ -8,7 +8,7 @@ has_toc: true
 
 
 
-Most of my engery goes into my job. Data Loss Prevention, Okta, Netskope, Endpoint Management, Automation, Engineering, etc. It hasn't left alot of time for blog
+Most of my engery goes into my job. Data Loss Prevention, Okta, Netskope, Endpoint Management, Automation, Engineering, etc.
 
 Occassionally I update this.
 
