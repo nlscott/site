@@ -6,13 +6,18 @@ layout: default
 
 # Okta User Profile
 
+<br><br>
+
+Theres a lot of times in security where you need to get context for a user. An alert fires from `joe.daily@example.com` but who is joe? Something I do routinely is pull the users Okta profile and group membership.
+
+Based on the attributes your organiztion has in Okta, and how you handle group membership. You can gain alot of context about what department a user works in, who thier manager is, what applications in Okta they have.
+
+I use this python script for quick access and just update the `getUserDetailsjson` function.
+
+> getUserDetailsjson(emailAddress = "joe.daily@example.com")
+
 <br>
 
-
-
-
-<br>
-code
 ```python
 #!/usr/bin/env python
 
@@ -92,9 +97,11 @@ if __name__ == "__main__":
 
 
 
+<br>
 
+<br>
 
-
+Example Output:
 
 ```yaml
 Okta Profile:
