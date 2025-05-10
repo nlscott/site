@@ -23,7 +23,7 @@ The event data and the report name are in different tables in the Event Monitori
 
 <br>
 <p align="center" width="100%">
-    <img width="100%" src="/images/salesforce-reports.png">
+    <img width="100%" src="/site/images/salesforce-reports.png">
     <figcaption align="center" style="font-size:12px;"> Example output (names and reports removed) </figcaption>
 </p>
 <br>

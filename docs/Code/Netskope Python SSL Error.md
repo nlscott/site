@@ -18,7 +18,7 @@ When running Python on Netskopeand using the `Request` module, user's receive th
 
 
 <p align="center" width="100%">
-    <img width="100%" src="/images/python.png">
+    <img width="100%" src="/site/images/python.png">
 </p>
 <br>
 
