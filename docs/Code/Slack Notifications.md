@@ -17,7 +17,7 @@ This is an example of an Okta API token being creatd. Since Okta can expose a lo
 
 <br>
 <p align="center" width="100%">
-    <img width="100%" src="/images/slack.png">
+    <img width="100%" src="/site/images/slack.png">
     <figcaption align="center" style="font-size:12px;"> Example Slack Notification </figcaption>
 </p>
 <br>
