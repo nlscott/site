@@ -8,13 +8,11 @@ has_toc: true
 
 
 
-This is a collection of things I enjoy. Occassionally I update it. Most of it will lack context for anyone else. Good luck.
+Most of my engery goes into my job. Data Loss Prevention, Okta, Netskope, Endpoint Management, Automation, Engineering, etc. It hasn't left alot of time for blog
 
+Occassionally I update this.
 
-<br>
-**Where else you can find me:**
-
-If you like niche themes, random code, and abandoned blogs.
+You can find me a few other places If you like niche VS Code themes, random code, and abandoned blogs.
 
 <br>
 [Github](https://github.com/nlscott){: .btn }
