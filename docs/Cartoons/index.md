@@ -40,7 +40,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 <br>
 ## Normal Face
 <p align="center" width="100%">
-    <img width="50%" src="/images/cartoons/normal.png">
+    <img width="50%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/normal.png">
 </p>
 
 {: .custom }
@@ -52,7 +52,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 <br>
 ## Hateful Puppies
 <p align="center" width="100%">
-    <img width="75%" src="/images/cartoons/puppies.png">
+    <img width="75%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/puppies.png">
 </p>
 
 {: .custom }
@@ -65,7 +65,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 ---
 ## Quarantine
 <p align="center" width="100%">
-    <img width="50%" src="/images/cartoons/Quarantine.png">
+    <img width="50%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/Quarantine.png">
 </p>
 
 {: .custom }
@@ -79,7 +79,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 ---
 ## Idiot
 <p align="center" width="100%">
-    <img width="50%" src="/images/cartoons/idiot.png">
+    <img width="50%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/idiot.png">
 </p>
 
 {: .custom }
@@ -93,7 +93,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 ---
 ## Bubbles
 <p align="center" width="100%">
-    <img width="75%" src="/images/cartoons/bubbles.png">
+    <img width="75%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/bubbles.png">
 </p>
 
 {: .custom }
@@ -105,7 +105,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 ---
 ## Deb
 <p align="center" width="100%">
-    <img width="50%" src="/images/cartoons/deb.png">
+    <img width="50%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/deb.png">
 </p>
 
 {: .custom }
@@ -119,7 +119,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 ---
 ## Jason
 <p align="center" width="100%">
-    <img width="50%" src="/images/cartoons/jason.png">
+    <img width="50%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/jason.png">
 </p>
 
 {: .custom }
@@ -133,7 +133,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 ---
 ## Kevin
 <p align="center" width="100%">
-    <img width="50%" src="/images/cartoons/kevin.png">
+    <img width="50%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/kevin.png">
 </p>
 
 {: .custom }
@@ -145,7 +145,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 ---
 ## Transportation
 <p align="center" width="100%">
-    <img width="50%" src="/images/cartoons/transportation.png">
+    <img width="50%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/transportation.png">
 </p>
 
 {: .custom }
@@ -157,7 +157,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 ---
 ## Birthday Party
 <p align="center" width="100%">
-    <img width="75%" src="/images/cartoons/birthday-party.png">
+    <img width="75%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/birthday-party.png">
 </p>
 
 {: .custom }
