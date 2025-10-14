@@ -13,7 +13,7 @@ But this is still a fairly easy weeknight dinner if you want to skip the marinat
 
 <br>
 <p align="center" width="100%">
-    <img width="75%" src="/images/chicken_tiki_masala.jpg">
+    <img width="75%" src="https://github.com/nlscott/site/blob/main/images/chicken_tiki_masala.jpg">
 </p>
 <br>
 
