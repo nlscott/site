@@ -7,13 +7,13 @@ layout: default
 # Chicken Tiki Masala
 <br>
 
-I will admit, I don't usually marinate my chciken ahead of time and often cheat with precooked chicken. It's worth the extra time to marinate and theres plenty of recipes out that with steps. Ocassionaly I do marinate in yogurt and put it on a charcoal grill and it is amazing!
+I’ll admit, I don’t usually marinate my chicken ahead of time and often cheat with precooked chicken. It’s worth the extra time to marinate, and there are plenty of recipes out there with detailed steps. Occasionally, I marinate the chicken in yogurt and cook it on a charcoal grill — it’s amazing!
 
-But this is a fairly easy weeknight dinner if you want to just skip the marinating.
+But this is still a fairly easy weeknight dinner if you want to skip the marinating.
 
 <br>
 <p align="center" width="100%">
-    <img width="75%" src="/images/Chicken Tiki Masala2.JPG">
+    <img width="75%" src="/images/chicken_tiki_masala.jpg">
 </p>
 <br>
 
