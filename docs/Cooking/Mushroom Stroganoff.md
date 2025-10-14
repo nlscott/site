@@ -8,7 +8,7 @@ layout: default
 
 
 <p align="center" width="100%">
-<img width="75%" src="/images/Mushroom_Stroganoff.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/Mushroom_Stroganoff.jpg">
 </p>
 <br>
 ## Ingredients:

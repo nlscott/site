@@ -8,7 +8,7 @@ layout: default
 <br>
 
 <p align="center" width="100%">
-    <img width="75%" src="images/drunken_noodles4.png">
+    <img width="75%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/drunken_noodles4.png">
 </p>
 <br>
 I got addicted to Thai food living in the DC area. After moving to a small town in rural Ohio, I had to figure out how to make it myself.
