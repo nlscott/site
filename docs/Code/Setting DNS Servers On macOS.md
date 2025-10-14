@@ -21,12 +21,12 @@ This is a script I wrote to check if the user is connected to Wifi, get their cu
 #!/bin/zsh
 
 ################################################################################
-# Name      	: set_dns_servers.sh                                                                                                                                                 
-# Date          : 2025.03.07 
-# Version       : 1.0.0                                                                                    
-# Author       	: Nic Scott                                               
-# Email         : nls.inbox@gmail.com   
-# Description	: checks to see if Wi-Fi interface is active and sets DNS Servers                                     
+# Name				: set_dns_servers.sh
+# Date				: 2025.03.07
+# Version			: 1.0.0
+# Author			: Nic Scott
+# Email				: nls.inbox@gmail.com
+# Description	:checks to see if Wi-Fi interface is active and sets DNS Servers                      
 ################################################################################
 
 
