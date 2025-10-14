@@ -27,7 +27,7 @@ This is not meant to be great art. At best it's `Slightly Better Than Average`. 
 <br>
 ## Jeremy
 <p align="center" width="100%">
-    <img width="60%" src="/https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/jeremy.png">
+    <img width="60%" src="https://raw.githubusercontent.com/nlscott/site/refs/heads/main/images/cartoons/jeremy.png">
 </p>
 
 {: .custom }
