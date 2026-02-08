@@ -9,7 +9,7 @@ nav_order: 4
 # Cartoons
 
 
-This is not meant to be great art. At best it's `Slightly Better Than Average`.  Its dry and ironic. Whats not to like?
+This is not meant to be great art. At best, it's `Slightly Better Than Average`.  It's dry and ironic. What's not to like?
 <br>
 
 ---
