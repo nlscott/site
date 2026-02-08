@@ -8,6 +8,7 @@ aux_links:
 
 search_enabled: true
 color_scheme: site-dark
+# color_scheme: dark
 enable_copy_code_button: true
 back_to_top: true
 back_to_top_text: "Back to the top"
@@ -43,6 +44,7 @@ callouts:
     opacity: 0.2
 
 kramdown:
+  syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
       line_numbers: false
