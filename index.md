@@ -8,11 +8,13 @@ has_toc: true
 
 
 
-Most of my energy goes into my job. Security Engineering, Data Loss Prevention, Okta, Netskope, Endpoint Management, Automation, etc.
+Most of my energy goes into my job. Security Engineering, Endpoint Management, Automation, Data Loss Prevention, etc.
+
+I use tools like MDMs, EDRs, ZTNAs, DLPs, SIEMs, SOAR, IDPs, and lots of APIs
 
 Occasionally, I update this.
 
-You can find me in a few other places if you like niche VS Code themes, random code, and abandoned blogs.
+You can find me in a few other places if you like outdated scripts, niche VS Code themes, random code, and abandoned blogs.
 
 <br>
 [Github](https://github.com/nlscott){: .btn }
